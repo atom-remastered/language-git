@@ -9,11 +9,11 @@
   "homepage": "http://atom.github.io/language-git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-git.git"
+    "url": "https://github.com/atom-remastered/language-git.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-git/issues"
+    "url": "https://github.com/atom-remastered/language-git/issues"
   },
   "devDependencies": {
     "coffeelint": "^2.1.0"
